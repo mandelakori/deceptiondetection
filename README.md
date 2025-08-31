@@ -15,6 +15,7 @@ The conclusion emphasizes hybrid architectures for adaptability and future direc
 
 ## Repositories
 **Static**: https://github.com/mandelakori/static-fraud-detection
+
 **Multimodal**: https://github.com/mandelakori/multimodal-fraud-detection
 
 ## Contact
