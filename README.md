@@ -13,6 +13,10 @@ The conclusion emphasizes hybrid architectures for adaptability and future direc
 - **MLOps and Production**: Focuses on experiment tracking, drift mitigation, and real-world case studies.
 - **Conclusion**: Hybrid approaches, future trends (e.g., LALMs, synthetic data), and comparative analysis.
 
+## Repositories
+**Static**: https://github.com/mandelakori/static-fraud-detection
+**Multimodal**: https://github.com/mandelakori/multimodal-fraud-detection
+
 ## Contact
 
 Author: Mandela Logan  
